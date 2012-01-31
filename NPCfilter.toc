@@ -1,4 +1,4 @@
-## Interface: 40000
+## Interface: 40300
 ## Version: Beta 0.1
 
 ## Title: NPCfilter
